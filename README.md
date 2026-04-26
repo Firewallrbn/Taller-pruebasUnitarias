@@ -16,7 +16,6 @@
 |---|---|
 | Juan David Cruz Ángel | Ingeniería de Software |
 
-**Curso:** Testing y Validación de Software  
 **Universidad:** Universidad de La Sabana  
 **Año:** 2026
 
